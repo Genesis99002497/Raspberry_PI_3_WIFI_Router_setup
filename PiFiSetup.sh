@@ -1,8 +1,7 @@
 #!/bin/sh
 #This script create for auto setup Raspberry Pi 3 WiFi Router
-# Author - Anil Parashar
-# www.techchip.net
-# www.youtube.com/techchipnet
+# Author - Yash Raj
+
 clear
 /bin/cat <<'Setup'
 
